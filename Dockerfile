@@ -1,4 +1,4 @@
-# Author Beth Ou Yang123
+# Author Beth Ou Yang
 
 FROM quay.io/jupyter/minimal-notebook:2023-11-19
 
